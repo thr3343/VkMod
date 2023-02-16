@@ -1,5 +1,8 @@
 # VkMod
 
+*Update: Failed attempt in 2021 to create a Renderer Engine/Minecraft Done in Java: Is highly unstable and not 100% safe or fit for use due to memory/stack corruption issues. Any other subsequent related work/PRs will likely be done in the [VulkanMod Project](https://github.com/xCollateral/VulkanMod) which unlike this is not a failure and can acheive something tangible with Vulkan in Minecraft*
+
+
 Highly experimental renderer and Tech Demo heavily derived from these Tutorial resources:
 
     https://vulkan-tutorial.com/#page_E-book
